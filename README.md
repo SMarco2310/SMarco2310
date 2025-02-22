@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm interested in developing software/web app <br>that will impact the world #MakingChanges
-
+I'm passionate about developing innovative software and web applications that can positively impact the world. #MakingChanges
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marc-etienne-sossou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sossoumarcetienne@icloud.com) 
