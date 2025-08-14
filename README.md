@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Marc-Etienne SOSSOU<br><br>I'm a passionate software engineer focused on building impactful and user-friendly applications. I enjoy solving real-world problems with clean architecture, scalable systems, and great design.<br><br>🚀 Currently Working On<br><br>    🚌 A Shuttle System App with microservices, JWT authentication, MoMo payment, and React.js frontend<br><br>    🏠 Campus Nest, a Spring Boot app to help students book hostels and get real-time room info<br><br>    🧭 A Campus Navigation App with live location tracking and interactive maps
+👋 Hi, I'm Marc-Etienne SOSSOU<br><br>I'm a passionate software engineer focused on building impactful and user-friendly applications. I enjoy solving real-world problems with clean architecture, scalable systems, and great design.<br><br>🚀 Currently Working On<br><br>    🚌 A Shuttle System App with JWT authentication, MoMo payment, and React.js frontend<br><br>    🏠 Campus Nest, a Spring Boot app to help students book hostels and get real-time room info<br>
 
 
 ## 🌐 Socials:
